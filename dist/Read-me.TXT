@@ -1,0 +1,8 @@
+## Simple Calculator in Java ##
+
+To run the .jar file, you need to do the following steps:
+
+(*) Install JDK 8 or higher
+(*) Run the command prompt and type the following without quotes
+	"java -jar <.jar file location path>"
+(*) Press Enter
